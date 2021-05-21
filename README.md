@@ -1,6 +1,6 @@
 # Amad la Dama: El servidor que comprueba palíndromos
 
-Queremos creador un servidor que ofrece un servicio que se encarga de comprobar si una palabra es un palíndromo.
+Queremos crear un servidor que ofrece un servicio que se encarga de comprobar si una palabra es un palíndromo.
 
 [Vídeo demo aplicación](https://oscarm.tinytake.com/tt/NTQxODQ0OF8xNjk0NDM5Ng)
 
