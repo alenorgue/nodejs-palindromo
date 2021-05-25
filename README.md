@@ -42,3 +42,6 @@ En resumen debe pasar lo siguiente:
 4. El formulario hace una petición GET al endpoint '/comprobar'; pasándole correctamente los parámetros por la QueryString
 5. El servidor devuelve un valor, true o false, igual que en el requisito 1.
 
+## Solución
+
+Propiesta de solución con comentaríos por [Ignacio Spadavecchia](https://github.com/Ignacio-Spadavecchia/node-servidor-palindroma)
