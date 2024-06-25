@@ -42,6 +42,14 @@ En resumen debe pasar lo siguiente:
 4. El formulario hace una petición GET al endpoint '/comprobar'; pasándole correctamente los parámetros por la QueryString
 5. El servidor devuelve un valor, true o false, igual que en el requisito 1.
 
+## Requisito BONUS
+
+Para cada petición guarda un fichero con todas las consultas que hace el cliente.
+Ejemplo: guardar en un fichero de nombre **consultas.txt** :
+
+- El usuario ha comprobado la palabra "narran" y es un palindromo.
+- El usuario ha comprobado la palabra "patata" y NO es un palindromo.
+
 ## Solución
 
 Propiesta de solución con comentaríos por [Ignacio Spadavecchia](https://github.com/Ignacio-Spadavecchia/node-servidor-palindroma)
