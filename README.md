@@ -2,7 +2,6 @@
 
 Queremos crear un servidor que ofrece un servicio que se encarga de comprobar si una palabra es un palíndromo.
 
-[Vídeo demo aplicación](https://oscarm.tinytake.com/tt/NTQxODQ0OF8xNjk0NDM5Ng)
 
 # Requisito 1
 
