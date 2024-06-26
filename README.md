@@ -1,4 +1,4 @@
-# Amad a la dama: El servidor que comprueba palíndromos
+# El servidor que comprueba palíndromos
 
 Queremos crear un servidor que ofrece un servicio que se encarga de comprobar si una palabra es un palíndromo.
 
