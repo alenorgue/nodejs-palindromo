@@ -18,6 +18,7 @@ http://localhost:3000/comprobar?palabra=patata
 Debe devolver una respuesta del tipo 'text/plain'. Si la palabra resulta ser un palíndromo, devolverá el mensaje "La palabra {palabra} es un palíndromo". En caso contrarío, debe devolver un mensaje "La palabra {palabra} NO es un palíndromo"
 
 BONUS: Serías capaz de utilizar el módulo 'querystring' en vez del módulo 'url' para obtener los parámetros de la QueryString? [Ayuda](https://www.javatpoint.com/nodejs-query-string)
+BONUS módulo de terceros: Busca en npmjs una utilidad para comprobar si una palabra es un palindromo o no
 
 # Requisito 2
 
