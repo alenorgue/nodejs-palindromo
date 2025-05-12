@@ -2,3 +2,7 @@ Palabra: "trabajo" - ¿Es palíndromo?: false
 Palabra: "trabajo" - ¿Es palíndromo?: false
 Palabra: "anna" - ¿Es palíndromo?: true
 Palabra: "menos mal que funciona" - ¿Es palíndromo?: false
+Palabra: "menos mal que funciona" - ¿Es palíndromo?: false
+Palabra: "menos mal que funciona" - ¿Es palíndromo?: false
+Palabra: "menos mal que funciona" - ¿Es palíndromo?: false
+Palabra: "erre" - ¿Es palíndromo?: true

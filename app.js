@@ -21,7 +21,7 @@ const server = http.createServer((req, res) => {
             <h1>¿Es un palíndromo?</h1>
             <form action="/comprobar" method="GET">
               <label for="word">Introduce una palabra o frase:</label><br>
-              <input type="text" id="word" name="word" required>
+              <input type="text" id="palabra" name="palabra" required>
               <button type="submit">Comprobar</button>
             </form>
           </body>
@@ -31,7 +31,7 @@ const server = http.createServer((req, res) => {
     }
 
   if (pathname === '/comprobar') {
-    const palabra = query.word;
+    const palabra = query.palabra;
 
     if (!palabra) {
         res.end(`<h1>Por favor introduce una palabra.</h1>`);
